@@ -19,6 +19,10 @@
     {
       "url":"https://github.com/Yaffle/EventSource",
       "title":"Polyfill"
+    },
+    {
+      "url":"https://github.com/aslakhellesoy/eventsource",
+      "title":"Polyfill and Node.js"
     }
   ],
   "bugs":[
